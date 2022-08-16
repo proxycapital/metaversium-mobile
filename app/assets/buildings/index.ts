@@ -1,0 +1,5 @@
+export const ironLvl1 = require("./ironLvl1.png")
+export const oilLvl1 = require("./oilLvl1.png")
+export const stoneLvl1 = require("./stoneLvl1.png")
+export const woodLvl1 = require("./woodLvl1.png")
+export const brewery = require("./brewery.png")

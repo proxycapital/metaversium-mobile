@@ -1,0 +1,5 @@
+export const wood = require("./wood.png")
+export const stone = require("./stone.png")
+export const iron = require("./iron.png")
+export const hop = require("./hop.png")
+export const money = require("./money.png")
